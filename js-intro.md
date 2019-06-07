@@ -3,6 +3,7 @@
 Answer these questions, then follow the instructions to submit your first assessment!
 
 #### 1. What is a function? Why would you use one?
+A function is a beautiful thing.
 
 #### 2. What is a method?
 
