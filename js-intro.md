@@ -24,6 +24,9 @@ console.log() prints out code so that it is visible.
 return refers to the output of a function - whatever input goes into the () of a function outputs according to the return line of code.
 However, this output is not necessarily visible.
 
+You be able to use the result of one function somewhere else in your program without printing it by using return instead of console.log().
+console.log will print the result to be seen visibly by the user, but return will output the result to be accessed within the program.
+
 #### 6. What is one thing we did in class this week that helped you learn the most?
 I really appreciate the pattern of having lectures to establish a lesson and helping us familiarize a concept, 
 and then having a lot of time to practice using those concepts in the exercises and challenges. 
